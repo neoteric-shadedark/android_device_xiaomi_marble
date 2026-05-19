@@ -44,6 +44,7 @@ PRODUCT_COPY_FILES += \
 
 # Kernel
 KERNEL_PREBUILT_DIR := $(LOCAL_PATH)-kernel
+include $(LOCAL_PATH)/kernel/kernel-platform.mk
 
 # Keylayout
 PRODUCT_COPY_FILES += \
