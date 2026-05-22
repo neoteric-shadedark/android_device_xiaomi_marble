@@ -36,5 +36,8 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     DeviceProduct=marble_global \
     SystemName=marble_global
 
+# Declare updates support
+IS_CUSTOM := true
+
 # Boot animation resolution.
 TARGET_BOOT_ANIMATION_RES := 1080
