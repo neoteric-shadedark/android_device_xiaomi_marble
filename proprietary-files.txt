@@ -1094,9 +1094,6 @@ vendor/firmware/a730_zap.mbn
 vendor/firmware/a730_zap.mdt
 vendor/firmware/gmu_gen70000.bin
 
-# Media (Dolby)
-vendor/etc/dolby_vision.cfg
-
 # NFC
 vendor/etc/libnfc-nci.conf
 vendor/etc/libnfc-nxp.conf
